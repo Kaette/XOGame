@@ -1,0 +1,16 @@
+html {
+    background-color: grey;
+}
+
+h1 {
+    color: indigo;
+}
+
+.links {
+    width: 50px;
+    height: 100px;
+}
+
+.links.button{
+    background-color: lawngreen;
+}
